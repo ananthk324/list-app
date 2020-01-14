@@ -1,5 +1,4 @@
-/* Using client side local storage to save data
- * and create a simple list
+/* A simple list app using client side local storage
  */
 
 const form = document.querySelector('form');
